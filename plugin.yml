@@ -1,0 +1,43 @@
+name: MasterMC - PvP
+main: net.iz44kpvp.kitpvp.Main
+description: Plugin de KitPvP Para o Servidor MasterMC
+version: 1.0
+commands:
+  fly:
+  report:
+  status:
+  rank:
+  xp:
+  score:
+  kit:
+  resetkit:
+  gm:
+  gamemode:
+  build:
+  admin:
+  congelar:
+  pvp:
+  tag:
+  warp:
+  warpset:
+  aviso:
+  cc:
+  kills:
+  clicktest:
+  fake:
+  tell:
+  chat:
+  uncage:
+  aplicar:
+  sendmsg:
+  sc:
+  caixa:
+  setarena:
+  darkit:
+  tp:
+  tphere:
+  tpall:
+  vis:
+  spawn:
+  head:
+  youtuber:
