@@ -6,13 +6,11 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Desktop/Server teste/plugins/TagAPI.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Desktop/Server teste/plugins/BarAPI.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Desktop/Server teste/plugins/PermissionsEx.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Desktop/Server teste/spigot.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Downloads/TitleManager-1.5.12.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Desktop/Master =3/SERVER v2/Plugins/NameTagAPI.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Desktop/Master =3/SERVER v2/Plugins/TagAPI (1).jar"/>
-	<classpathentry kind="lib" path="C:/Users/Andrius/Desktop/Master =3/SERVER v2/Plugins/NametagEdit.jar"/>
+	<classpathentry kind="lib" path="/APIs/BarAPI-3.4.jar"/>
+	<classpathentry kind="lib" path="/APIs/NametagEdit-2.4.jar"/>
+	<classpathentry kind="lib" path="/APIs/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/APIs/TagAPI-3.0.6.jar"/>
+	<classpathentry kind="lib" path="/APIs/PermissionsEx-1.22.10.jar"/>
+	<classpathentry kind="lib" path="/APIs/TitleManager-1.5.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
